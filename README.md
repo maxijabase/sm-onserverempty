@@ -1,43 +1,26 @@
 <div align="center">
-  <h1><code>sm-onserverempty</code></h1>
+  <h1><code>OnServerEmpty</code></h1>
   <p>
-    <strong>Short Description</strong>
+    <strong>Expose OnServerEmpty and OnServerNotEmpty forwards</strong>
   </p>
   <p style="margin-bottom: 0.5ex;">
     <img
-        src="https://img.shields.io/github/downloads//sm-onserverempty/total"
+        src="https://img.shields.io/github/downloads/maxijabase/sm-onserverempty/total"
     />
     <img
-        src="https://img.shields.io/github/last-commit//sm-onserverempty"
+        src="https://img.shields.io/github/last-commit/maxijabase/sm-onserverempty"
     />
     <img
-        src="https://img.shields.io/github/issues//sm-onserverempty"
+        src="https://img.shields.io/github/issues/maxijabase/sm-onserverempty"
     />
     <img
-        src="https://img.shields.io/github/issues-closed//sm-onserverempty"
+        src="https://img.shields.io/github/issues-closed/maxijabase/sm-onserverempty"
     />
     <img
-        src="https://img.shields.io/github/repo-size//sm-onserverempty"
+        src="https://img.shields.io/github/repo-size/maxijabase/sm-onserverempty"
     />
     <img
-        src="https://img.shields.io/github/workflow/status//sm-onserverempty/Compile%20and%20release"
+        src="https://img.shields.io/github/workflow/status/maxijabase/sm-onserverempty/Compile%20and%20release"
     />
   </p>
 </div>
-
-
-## Requirements ##
-- Sourcemod and Metamod
-
-
-## Installation ##
-1. Grab the latest release from the release page and unzip it in your sourcemod folder.
-2. Restart the server or type `sm plugins load sm-onserverempty` in the console to load the plugin.
-3. The config file will be automatically generated in cfg/sourcemod/
-
-## Configuration ##
-- You can modify the phrases in addons/sourcemod/translations/sm-onserverempty.phrases.txt.
-- Once the plugin has been loaded, you can modify the cvars in cfg/sourcemod/sm-onserverempty.cfg.
-
-
-## Usage ##
